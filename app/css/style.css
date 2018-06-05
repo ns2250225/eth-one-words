@@ -1,0 +1,32 @@
+a{
+	color: #ccd500;
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+	color: #a9b119;
+}
+.clear {
+    clear: both;
+}
+html {
+    /*position: relative;*/
+    height: 100%;
+}
+body {
+}
+b{
+	font-weight: 600;
+}
+
+span {
+    font-size: 18px;
+}
+
+.container {
+    margin-top: 80px;
+}
+
+#ArticleList {
+    margin-top: 20px;
+}
